@@ -1,0 +1,5 @@
+*
+!/.gemrc
+!/.gitignore.d
+!/.gitignore.d/ruby
+!/.rubocop.yml
