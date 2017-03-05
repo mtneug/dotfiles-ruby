@@ -1,5 +1,5 @@
 *
 !/.gemrc
 !/.gitignore.d
-!/.gitignore.d/ruby
+!/.gitignore.d/dotfiles-ruby
 !/.rubocop.yml
